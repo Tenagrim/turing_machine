@@ -7,3 +7,4 @@
   помещение на ленту символа  - соответствующая символу клавиша;<br>
   запуск                      - клавиша "Q"<br>
   
+![alt text](https://github.com/Tenagrim/turing_machine/blob/master/pictures/behaviour.png)
